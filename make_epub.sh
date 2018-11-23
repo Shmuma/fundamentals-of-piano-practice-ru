@@ -1,3 +1,4 @@
 #!/bin/sh
+. ./opts.sh
 
-pandoc *.md -o book.epub
+pandoc $OPTS *.md -o book.epub
