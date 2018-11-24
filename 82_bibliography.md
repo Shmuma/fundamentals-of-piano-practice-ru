@@ -106,3 +106,4 @@ Tuning Tools, Parts, Amazon.com: piano tuning tools: Musical Instruments , Schaf
 Young, Robert W., Inharmonicity of Plain Wire Piano Strings, J. Acoust. Soc. Am., 24(3), 1952.
 
 Zach’s Piano Supplies , http://www.amazon.com/gp/node/index.html? ie=UTF8&me=A2ONYPD9NQF23S&merchant=A2ONYPD9NQF23S&qid=1412862674 .
+
