@@ -3,7 +3,7 @@
 * [x] Table of contents
 * [x] Book title in epub format
 * Formatting and x-refs
-   * [x] ch00..ch05
-	* ch06..ch20
+   * [x] ch00..ch10
+	* ch11..ch31
 * Initial import
-   * ch21..ch86
+   * ch32..ch86
