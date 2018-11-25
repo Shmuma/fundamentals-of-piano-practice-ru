@@ -4,6 +4,6 @@
 * [x] Book title in epub format
 * Formatting and x-refs
    * [x] ch00..ch10
-	* ch11..ch31
+	* ch11..ch50
 * Initial import
-   * ch32..ch86
+   * ch51..ch86
