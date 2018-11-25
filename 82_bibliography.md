@@ -1,4 +1,4 @@
-# Библиография {#ch82}
+# 82 - Библиография {#ch82}
 
 
 Banowetz, Joseph, The Pianist’s Guide to Pedaling, Indiana University Press; First Edition (April 1, 1985). (Джозеф Бановец, “Как правильно пользоваться педалью”)
