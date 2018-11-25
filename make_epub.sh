@@ -1,4 +1,4 @@
 #!/bin/sh
 . ./opts.sh
 
-pandoc $OPTS *.md -o book.epub
+pandoc --epub-metadata=epub_meta.yaml $OPTS *.md -o book.epub
